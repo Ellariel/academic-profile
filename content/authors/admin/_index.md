@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Danila Valko
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The South Ural University of Technology
+    url: https://www.inueco.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Data Science and Artificial Intelligence
+  - Sustainability and Environmental Psychology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Fundamental Computer Science and Information Technologies
+      institution: South Ural State University, Russia
+      year: 2018
+    - course: PhD in Economics equivalent (Candidate of Economic Sciences)
+      institution: Institute of Economics, Ural Branch of the Russian Academy of Sciences, Russia
+      year: 2014
+    - course: MA in Finance and Economics equivalent (Economist in Finance and Credit)
+      institution: South Ural Institute of Management and Economics, Russia
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
