@@ -79,6 +79,7 @@ highlight_name: true
 ---
 
 My research interests lie in sustainable development at both the technological and social levels. As a social scientist, I study pro-environmental behavior and its determinants, as well as economic models in emerging environmental cultures. As a computer scientist, I investigate green computing and the role of artificial intelligence in promoting sustainable development and mitigating climate change.
+
 If you have interesting ideas or projects that require scientific expertise or quantitative research skills, please contact me.
 
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
