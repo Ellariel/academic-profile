@@ -53,7 +53,7 @@ social:
     link: https://orcid.org/0000-0002-8058-7539
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Danila-Valko
@@ -78,8 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests lie in sustainable development at both the technological and social levels. As a social scientist, I study pro-environmental behavior and its determinants, as well as economic models in emerging environmental cultures. As a computer scientist, I investigate green computing and the role of artificial intelligence in promoting sustainable development and mitigating climate change.
+If you have interesting ideas or projects that require scientific expertise or quantitative research skills, please contact me.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
