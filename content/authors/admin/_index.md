@@ -10,27 +10,30 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The South Ural University of Technology
-    url: https://www.inueco.ru/
+  - name: L3S Research Center, Leibniz University Hannover
+    url: https://www.l3s.de/en
+#  - name: The South Ural University of Technology
+#    url: https://www.inueco.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sustainability as a general concept.
 
 # Interests to show in About widget
 interests:
-  - Social Data Science and Artificial Intelligence
   - Sustainability and Environmental Psychology
-
+  - Social Data Science and Green computing
+  - Artificial Intelligence and Reinforcement Learning
+  
 # Education to show in About widget
 education:
   courses:
     - course: MSc in Fundamental Computer Science and Information Technologies
       institution: South Ural State University, Russia
       year: 2018
-    - course: PhD in Economics equivalent (Candidate of Economic Sciences)
+    - course: PhD in Economics (Candidate of Economic Sciences)
       institution: Institute of Economics, Ural Branch of the Russian Academy of Sciences, Russia
       year: 2014
-    - course: MA in Finance and Economics equivalent (Economist in Finance and Credit)
+    - course: MA in Finance and Economics (Economist in Finance and Credit)
       institution: South Ural Institute of Management and Economics, Russia
       year: 2010
 
@@ -39,21 +42,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '/#contact'
+# #- icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8058-7539
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Danila-Valko
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ellariel
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ellariel
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,4 +82,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
