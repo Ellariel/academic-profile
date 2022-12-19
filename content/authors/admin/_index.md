@@ -19,10 +19,10 @@ organizations:
 bio: My research interests include sustainability as a general concept.
 
 # Interests to show in About widget
-interests:
-  - Sustainability and Environmental Psychology
-  - Social Data Science and Green computing
-  - Artificial Intelligence and Reinforcement Learning
+#interests:
+#  - Sustainability and Environmental Psychology
+#  - Social Data Science and Green computing
+#  - Artificial Intelligence and Reinforcement Learning
   
 # Education to show in About widget
 education:
