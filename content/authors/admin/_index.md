@@ -82,4 +82,8 @@ My research interests lie in sustainable development at both the technological a
 
 If you have interesting ideas or projects that require scientific expertise or quantitative research skills, please contact me.
 
+Skills:
+  - Quantitative research, Econometrics
+  - Python, R
+
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
