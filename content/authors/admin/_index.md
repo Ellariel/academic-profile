@@ -23,6 +23,10 @@ interests:
   - Sustainability and Environmental Psychology
   - Social Data Science and Green computing
   - Artificial Intelligence and Reinforcement Learning
+
+skills:
+  - Quantitative research, Econometrics
+  - Python, R, Stata
   
 # Education to show in About widget
 education:
