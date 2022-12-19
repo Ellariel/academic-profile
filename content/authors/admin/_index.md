@@ -19,10 +19,10 @@ organizations:
 bio: My research interests include sustainability as a general concept.
 
 # Interests to show in About widget
-#interests:
-#  - Sustainability and Environmental Psychology
-#  - Social Data Science and Green computing
-#  - Artificial Intelligence and Reinforcement Learning
+interests:
+  - Sustainability & Environmental behavior
+  - Social Data Science & AI for Sustainability
+  - Reinforcement Learning
   
 # Education to show in About widget
 education:
@@ -80,10 +80,8 @@ highlight_name: true
 
 My research interests lie in sustainable development at both the technological and social levels. As a social scientist, I study pro-environmental behavior and its determinants, as well as economic models in emerging environmental cultures. As a computer scientist, I investigate green computing and the role of artificial intelligence in promoting sustainable development and mitigating climate change.
 
-If you have interesting ideas or projects that require scientific expertise or quantitative research skills, please contact me.
+I am skilled in quantitative research, advanced econometrics, and data mining using Python & R.
 
-Skills:
-  - Quantitative research, Econometrics
-  - Python, R
+If you have interesting ideas or projects that require scientific expertise or quantitative research skills, please contact me.
 
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
