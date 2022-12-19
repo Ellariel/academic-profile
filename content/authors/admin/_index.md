@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Fundamental Computer Science and Information Technologies
+    - course: MSc in Fundamental Computer Science & Information Technologies
       institution: South Ural State University, Russia
       year: 2018
-    - course: PhD in Economics (Candidate of Economic Sciences)
+    - course: PhD in Economics
       institution: Institute of Economics, Ural Branch of the Russian Academy of Sciences, Russia
       year: 2014
-    - course: MA in Finance and Economics (Economist in Finance and Credit)
+    - course: MA in Finance and Economics
       institution: South Ural Institute of Management and Economics, Russia
       year: 2010
 
